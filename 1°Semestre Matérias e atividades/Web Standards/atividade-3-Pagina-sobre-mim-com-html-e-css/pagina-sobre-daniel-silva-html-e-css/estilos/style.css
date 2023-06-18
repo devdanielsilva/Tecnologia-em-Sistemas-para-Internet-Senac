@@ -1,0 +1,84 @@
+body {
+    background-color: gray;
+    background-image: url("../imagens/imagemdefundo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#titulo-nome {
+    background-color: white;
+    color: rgb(41, 155, 221);
+    text-align: center;
+    font-family: Verdana, ;
+    font-size: 80px;
+    border-radius: 15px;
+    border: 3px solid aqua;
+
+}
+
+#eu {
+    display: block;
+    background-image: 300px;
+    text-align: center;
+}
+
+#sobre-mim {
+    background-color: white;
+    border: 3px solid blue;
+    width: 800px;
+    height: 110px;
+    padding: 10px 15px 15px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+#sobre-mim-titulo {
+    text-align: center;
+
+}
+
+#sobre-mim-parágrafo {
+    color: red;
+}
+
+#meus-hobbies {
+    background-color: white;
+    border: 3px solid red;
+    width: 800px;
+    height: 110px;
+    padding: 10px 15px 15px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+#meus-hobbies-titulo {
+    text-align: center;
+}
+
+#parágrafos-hobbies {
+    color: green;
+}
+
+#meu-filme-favorito {
+    background-color: white;
+    border: 3px solid green;
+    width: 800px;
+    height: 110px;
+    padding: 10px 15px;
+    margin: auto;
+    border-radius: 15px;
+
+}
+
+#titulo-filme-favorito {
+    text-align: center;
+}
+
+#parágrafo-filme-favorito {
+    color: blue;
+}
+
+#gigantes-de-aço {
+    background-image: 500px;
+    text-align: center;
+}
